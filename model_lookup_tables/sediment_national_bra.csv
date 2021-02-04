@@ -1,0 +1,13 @@
+LULC_desc,lucode,usle_c,usle_p
+ArtificialSurface,1,0.100,1
+AgriculturalVegetation,2,0.500,0.5
+Pastureland,3,0.080,1
+AgriculturalLandWithNaturalVegetation,4,0.250,0.8
+ForestPlantation ,5,0.000,1
+Forest,6,0.000,1
+Wetland,9,0.060,1
+TransitionalWoodlandScrub,10,0.010,1
+AgriculturalLandWithNaturalVegetation,11,0.250,0.8
+WaterBody,12,0.000,1
+WaterBody,13,0.000,1
+BareArea,14,0.350,1

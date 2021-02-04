@@ -1,0 +1,13 @@
+lucode,LULC_name,C_above,C_below,C_soil,C_dead
+1,ArtificialSurface,0,0,0,0
+2,AgriculturalVegetation,5,0,0,0
+3,Pastureland,4.5,0,0,0
+4,AgriculturalLandWithNaturalVegetation,76,0,0,0
+5,ForestPlantation ,76,0,0,0
+6,Forest,180,0,0,0
+9,Wetland,111,0,0,0
+10,TransitionalWoodlandScrub,71,0,0,0
+11,AgriculturalLandWithNaturalVegetation,76,0,0,0
+12,WaterBody,0,0,0,0
+13,WaterBody,0,0,0,0
+14,BareArea,1,0,0,0

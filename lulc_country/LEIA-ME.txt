@@ -1,0 +1,29 @@
+Arquivo "Cobertura_uso_da_terra_v2_2016.shp" 12/11/2018
+
+V2 - Nova versão - 
+Os dados de cobertura e uso passaram pelos seguintes aprimoramentos metodológicos: substituição das imagens de satélite MODIS por imagens Landsat 8 e alterações nas classes de cobertura e uso da terra.
+As imagens de satélite Landsat 8 possuem resolução espacial maior do que as imagens MODIS, ou seja, possuem mais detalhes e possibilitam melhor distinção entre os diversos elementos da superfície terrestre na interpretação visual das imagens, resultando em maior acurácia dos mapas.
+As alterações nas classes de cobertura e uso da terra visam a simplificação da legenda e compatibilização com diversas classificações nacionais e internacionais.
+Os dados referentes a cobertura e uso da terra de 2016 são os primeiros a serem produzidos e publicados sob o novo molde de trabalho.
+Logo, para minimizar os impactos desses ajustes metodológicos na série histórica, a própria série histórica do mapeamento (2000, 2010, 2012 e 2014) sofreu ajustes  visando a adequação a nova metodologia e a harmonização com os dados de 2016.
+
+
+Devido às limitações de tamanho na tabela de atribuito do arquivo em formato "shapefile", o arquivo de Cobertura e Uso da terra Brasil em grade estatística possui em sua tabela de atribuito apenas os códigos das classes ("CD_2000","CD_2010","CD_2012","CD_2014","CD_2016").
+Os nomes das classes se relacionam com os códigos conforme tabela abaixo. 
+
+CD - Nome da classe                          - Código rgb
+1  - Área Artificial                         - rgb( 254, 0, 0 ) 
+2  - Área Agrícola                           - rgb( 234, 229, 39 )  
+3  - Pastagem com Manejo                     - rgb( 204, 136, 0 )
+4  - Mosaico de Ocupações em Área Florestal  - rgb( 211, 231, 132 )
+5  - Silvicultura                            - rgb( 0, 143, 88 )
+6  - Vegetação Florestal                     - rgb( 114, 167, 0 )
+9  - Área Úmida                              - rgb( 189, 184, 244 )
+10 - Vegetação Campestre                     - rgb( 205, 179, 99 )
+11 - Mosaico de Ocupações em Área Campestre  - rgb( 214, 152, 99 )
+12 - Corpo d'Água Continental                - rgb( 139, 254, 254 ) 
+13 - Corpo d'Água Costeiro                   - rgb( 44, 151, 217 )
+14 - Área Descoberta                         - rgb( 135, 135, 135 )
+
+Para mais informações sobre as classes e o trabalho, acessar o relatório completo 2014-2016 no site: 
+https://www.ibge.gov.br/apps/monitoramento_cobertura_uso_terra/v1/
